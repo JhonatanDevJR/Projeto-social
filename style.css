@@ -52,3 +52,9 @@ section img:hover{
     box-shadow: 5px 5px 10px black;
     transition: transform 1s;
 }
+h1{
+    text-align: center;
+    color: white;
+    font-family: sans-serif;
+    padding-top: 30px;
+}
