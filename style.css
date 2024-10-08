@@ -23,24 +23,33 @@ main{
 section#telefone{
     height: 650px;
     width: 310px;
-    background-color: white;
     position: absolute;
     top: 50%;
     left: 50%;
     transform: translate(-50%,-50%);
-    background: url(..//Projeto-social/imagens/frame-iphone.png) no-repeat;
+}
+img#phone{
+    height: 600px;
+    width: 290px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
 }
 iframe#tela{
     position: relative;
-    top: 80px;
-    left: 23px;
-    width: 264px;
-    height: 469px;
+    top: 101px;
+    left: 30px;
+    width: 250px;
+    height: 450px;
+    border-radius: 5px;
+}
+section#redes-sociais{
+    text-align: right;
 }
 section img{
     width: 60px;
     margin: 10px;
-    left: 90%;
     position: relative;
     border-radius: 50%;
     box-sizing: border-box;
