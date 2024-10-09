@@ -55,6 +55,7 @@ section img{
     border-radius: 50%;
     box-sizing: border-box;
     box-shadow: 2px 2px 5px black;
+    background-color: rgb(0, 0, 0);
 }
 section img:hover{
     border: 2px solid rgb(0, 0, 0);
