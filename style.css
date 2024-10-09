@@ -50,6 +50,7 @@ section#redes-sociais{
 section img{
     width: 60px;
     margin: 10px;
+    top: 60px;
     position: relative;
     border-radius: 50%;
     box-sizing: border-box;
@@ -61,7 +62,7 @@ section img:hover{
     box-shadow: 5px 5px 10px black;
     transition: transform 1s;
 }
-h2{
+h1{
     text-align: center;
     color: rgb(255, 255, 255);
     font-family: sans-serif;
